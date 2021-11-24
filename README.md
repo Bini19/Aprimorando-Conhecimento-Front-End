@@ -1,4 +1,4 @@
-# Aprimorando Conhecimento de Front-End
+# Aprimorando Conhecimento em Front-End
 
 
 **Descrição:**
