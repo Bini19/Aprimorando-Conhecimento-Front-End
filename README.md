@@ -3,7 +3,7 @@
 
 **Descrição:**
 
-Comecei a desenvolver HTML, CSS e JavaScript no início do ano de 2018!
+Comecei a desenvolver HTML, CSS e JavaScript no início do ano de 2019!
 
 Foi o meu primeiro contato com a programação, a forma que uma página pode mudar de uma hora para outra com uma simples remoção de tag ou até mesmo não fechando-o com a barra Oblíqua "/". 
 
